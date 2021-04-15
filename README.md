@@ -1,2 +1,2 @@
-# Nalogoviy-calculator
-Nalogoviy calculator
+РГР по предмету ООМиП, УГАТУ
+Тема: Налоговый калькулятор
